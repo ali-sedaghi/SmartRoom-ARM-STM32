@@ -25,3 +25,4 @@ A simulation of smart room (Heater, Cooler, Purifier, Lock) with ARM STM32 micro
 
 
 ## Hardware
+![Hardware](https://user-images.githubusercontent.com/45814362/193379988-6599ad84-6f66-4a39-8c30-54ddfcf81d0d.jpg)
